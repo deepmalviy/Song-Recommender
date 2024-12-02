@@ -17,7 +17,7 @@ This repository contains two projects focused on interacting with Spotify's API 
 1. User Data Extraction
 This Python script uses the Spotify Web API to extract user playlist data, including track details, artist information, and audio features.
 
--- Features:
+#### Features:
 
 - Retrieves playlists of the authenticated user.
 - Extracts detailed track information, such as:
@@ -26,7 +26,7 @@ This Python script uses the Spotify Web API to extract user playlist data, inclu
 - Audio features like danceability, energy, tempo, and more.
 - Outputs the data into a structured CSV file for further analysis.
 - 
-File: User Data Extraction.py
+#### File: User Data Extraction.py
 
 2. Song Recommender
 This Jupyter Notebook builds a song recommendation system using Spotify's audio features. By analyzing the characteristics of songs, it recommends similar tracks that align with the user’s preferences.
