@@ -17,9 +17,9 @@ This repository contains two projects focused on interacting with Spotify's API 
 1. User Data Extraction
 This Python script uses the Spotify Web API to extract user playlist data, including track details, artist information, and audio features.
 
-Features:
+-- Features:
 
--Retrieves playlists of the authenticated user.
+- Retrieves playlists of the authenticated user.
 - Extracts detailed track information, such as:
 - Track name, artist, album, and popularity.
 - Artist details, including genres and popularity.
