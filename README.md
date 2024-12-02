@@ -69,9 +69,9 @@ Install dependencies:
 pip install spotipy pandas matplotlib seaborn
 ```
 
-Running the Projects
+### Running the Projects
 
-User Data Extraction:
+#### User Data Extraction:
 
 Run the Python script:
 ```bash
@@ -79,7 +79,7 @@ python User\ Data\ Extraction.py
 ```
 A CSV file (spotify_tracks_f.csv) will be generated with all extracted data.
 
-Song Recommender:
+#### Song Recommender:
 
 Open the Jupyter Notebook:
 ```bash
