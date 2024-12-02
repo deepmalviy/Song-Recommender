@@ -25,18 +25,17 @@ This Python script uses the Spotify Web API to extract user playlist data, inclu
 - Artist details, including genres and popularity.
 - Audio features like danceability, energy, tempo, and more.
 - Outputs the data into a structured CSV file for further analysis.
-- 
 #### File: User Data Extraction.py
+
 
 2. Song Recommender
 This Jupyter Notebook builds a song recommendation system using Spotify's audio features. By analyzing the characteristics of songs, it recommends similar tracks that align with the user’s preferences.
 
-Features:
+#### Features:
 
 - Loads Spotify track data for analysis.
 - Applies similarity-based recommendation logic using features like tempo, danceability, and energy.
 - Includes data visualization for understanding patterns in song attributes.
-
 File: Song Recommender.ipynb
 
 ## Technologies Used
