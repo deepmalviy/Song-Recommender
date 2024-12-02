@@ -4,8 +4,8 @@ This repository contains two projects focused on interacting with Spotify's API 
 
 ## Table of Contents
 1. [Project Descriptions](#Project-Descriptions)
-- 1. User Data Extraction](#User-Data-Extraction)
-- 2. Song Recommender](#Song-Recommender)
+- 1. [User Data Extraction](#User-Data-Extraction)
+- 2. [Song Recommender](#Song-Recommender)
 2. [Technologies Used](#Technologies-Used)
 3. [Getting Started](#Getting-Started)
 4. [Setup](#Setup)
